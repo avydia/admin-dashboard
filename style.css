@@ -518,7 +518,7 @@ main .recent-order a {
   font-weight: 600;
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1400px) {
   .container {
     width: 94%;
     grid-template-columns: 7rem auto 23rem;
